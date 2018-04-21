@@ -1,0 +1,4 @@
+E:\learn\myGit\learnCastleWindsor\src\iInterface\bin\Debug\iInterface.dll
+E:\learn\myGit\learnCastleWindsor\src\iInterface\bin\Debug\iInterface.pdb
+E:\learn\myGit\learnCastleWindsor\src\iInterface\obj\Debug\iInterface.dll
+E:\learn\myGit\learnCastleWindsor\src\iInterface\obj\Debug\iInterface.pdb

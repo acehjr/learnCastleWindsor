@@ -1,0 +1,7 @@
+E:\learn\myGit\learnCastleWindsor\src\PrintSpace\bin\Debug\PrintSpace.dll
+E:\learn\myGit\learnCastleWindsor\src\PrintSpace\bin\Debug\PrintSpace.pdb
+E:\learn\myGit\learnCastleWindsor\src\PrintSpace\bin\Debug\iInterface.dll
+E:\learn\myGit\learnCastleWindsor\src\PrintSpace\bin\Debug\iInterface.pdb
+E:\learn\myGit\learnCastleWindsor\src\PrintSpace\obj\Debug\PrintSpace.csprojResolveAssemblyReference.cache
+E:\learn\myGit\learnCastleWindsor\src\PrintSpace\obj\Debug\PrintSpace.dll
+E:\learn\myGit\learnCastleWindsor\src\PrintSpace\obj\Debug\PrintSpace.pdb

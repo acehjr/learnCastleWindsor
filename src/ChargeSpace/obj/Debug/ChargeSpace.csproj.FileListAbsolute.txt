@@ -1,0 +1,6 @@
+E:\learn\myGit\learnCastleWindsor\src\ChargeSpace\bin\Debug\ChargeSpace.dll
+E:\learn\myGit\learnCastleWindsor\src\ChargeSpace\bin\Debug\ChargeSpace.pdb
+E:\learn\myGit\learnCastleWindsor\src\ChargeSpace\bin\Debug\iInterface.dll
+E:\learn\myGit\learnCastleWindsor\src\ChargeSpace\bin\Debug\iInterface.pdb
+E:\learn\myGit\learnCastleWindsor\src\ChargeSpace\obj\Debug\ChargeSpace.dll
+E:\learn\myGit\learnCastleWindsor\src\ChargeSpace\obj\Debug\ChargeSpace.pdb

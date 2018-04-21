@@ -1,0 +1,11 @@
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\bin\Debug\WindorInstall.dll
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\bin\Debug\WindorInstall.pdb
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\bin\Debug\Castle.Core.dll
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\bin\Debug\Castle.Windsor.dll
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\bin\Debug\Castle.Core.pdb
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\bin\Debug\Castle.Core.xml
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\bin\Debug\Castle.Windsor.pdb
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\bin\Debug\Castle.Windsor.xml
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\obj\Debug\WindorInstall.csprojResolveAssemblyReference.cache
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\obj\Debug\WindorInstall.dll
+E:\learn\myGit\learnCastleWindsor\src\WindorInstall\obj\Debug\WindorInstall.pdb
